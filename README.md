@@ -54,4 +54,48 @@ quiz: 개인 깃허브 이름 주차 퀴즈 내용 및 링크
 
 ---
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jay-so">
+        <img src="https://github.com/jay-so.png" width="100" height="100" alt="jay-so"/><br />
+        jay-so
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tigermint">
+        <img src="https://github.com/tigermint.png" width="100" height="100" alt="tigermint"/><br />
+        tigermint
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yoon6763">
+        <img src="https://github.com/yoon6763.png" width="100" height="100" alt="yoon6763"/><br />
+        yoon6763
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JuSeong1130">
+        <img src="https://github.com/JuSeong1130.png" width="100" height="100" alt="JuSeong1130"/><br />
+        JuSeong1130
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/junseoparkk">
+        <img src="https://github.com/junseoparkk.png" width="100" height="100" alt="junseoparkk"/><br />
+        junseoparkk
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chhs2131">
+        <img src="https://github.com/chhs2131.png" width="100" height="100" alt="chhs2131"/><br />
+        chhs2131
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
